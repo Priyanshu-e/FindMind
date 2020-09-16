@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/FindMind/static/css/main.6fb98c2a.chunk.css",
+    "main.js": "/FindMind/static/js/main.b0040bc8.chunk.js",
+    "main.js.map": "/FindMind/static/js/main.b0040bc8.chunk.js.map",
+    "runtime-main.js": "/FindMind/static/js/runtime-main.432bfea5.js",
+    "runtime-main.js.map": "/FindMind/static/js/runtime-main.432bfea5.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/FindMind/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.b1d10716.chunk.js": "/FindMind/static/js/2.b1d10716.chunk.js",
+    "static/js/2.b1d10716.chunk.js.map": "/FindMind/static/js/2.b1d10716.chunk.js.map",
+    "index.html": "/FindMind/index.html",
+    "precache-manifest.85b81529cccabcd367a3417872c40e35.js": "/FindMind/precache-manifest.85b81529cccabcd367a3417872c40e35.js",
+    "service-worker.js": "/FindMind/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/FindMind/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.6fb98c2a.chunk.css.map": "/FindMind/static/css/main.6fb98c2a.chunk.css.map",
+    "static/js/2.b1d10716.chunk.js.LICENSE.txt": "/FindMind/static/js/2.b1d10716.chunk.js.LICENSE.txt",
+    "static/media/28.jpg": "/FindMind/static/media/28.be064106.jpg",
+    "static/media/img1.jpg": "/FindMind/static/media/img1.50574b35.jpg",
+    "static/media/img2.jpg": "/FindMind/static/media/img2.85b86e2f.jpg",
+    "static/media/img3.jpeg": "/FindMind/static/media/img3.4859b356.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.432bfea5.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.b1d10716.chunk.js",
+    "static/css/main.6fb98c2a.chunk.css",
+    "static/js/main.b0040bc8.chunk.js"
+  ]
+}
